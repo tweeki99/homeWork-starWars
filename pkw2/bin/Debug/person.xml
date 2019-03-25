@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>Luke Skywalker</Name>
+    <Height>172</Height>
+    <Mass>77</Mass>
+    <Gender>male</Gender>
+    <Homeworld>https://swapi.co/api/planets/1/</Homeworld>
+    <Films>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/films/2/</anyType>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/films/6/</anyType>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/films/3/</anyType>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/films/1/</anyType>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/films/7/</anyType>
+    </Films>
+    <Species>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/species/1/</anyType>
+    </Species>
+    <Vehicles>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/vehicles/14/</anyType>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/vehicles/30/</anyType>
+    </Vehicles>
+    <Starships>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/starships/12/</anyType>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/starships/22/</anyType>
+    </Starships>
+    <Created>2014-12-09T13:50:51.644Z</Created>
+    <Edited>2014-12-20T21:17:56.891Z</Edited>
+    <Url>https://swapi.co/api/people/1/</Url>
+    <Id>1</Id>
+  </Person>
+  <Person>
+    <Name>C-3PO</Name>
+    <Height>167</Height>
+    <Mass>75</Mass>
+    <Gender>n/a</Gender>
+    <Homeworld>https://swapi.co/api/planets/1/</Homeworld>
+    <Films>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/films/2/</anyType>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/films/5/</anyType>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/films/4/</anyType>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/films/6/</anyType>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/films/3/</anyType>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/films/1/</anyType>
+    </Films>
+    <Species>
+      <anyType xsi:type="xsd:string">https://swapi.co/api/species/2/</anyType>
+    </Species>
+    <Vehicles />
+    <Starships />
+    <Created>2014-12-10T15:10:51.357Z</Created>
+    <Edited>2014-12-20T21:17:50.309Z</Edited>
+    <Url>https://swapi.co/api/people/2/</Url>
+    <Id>2</Id>
+  </Person>
+</ArrayOfPerson>
